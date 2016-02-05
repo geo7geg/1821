@@ -35,7 +35,7 @@ namespace StrategyGame
         {
             InitializeComponent();
             this.CenterToScreen();
-            //flowLayoutPanel1.VerticalScroll.Visible = false;yhiluil
+            //flowLayoutPanel1.VerticalScroll.Visible = false;
             //flowLayoutPanel1.HorizontalScroll.Visible = false;
             
             //this.MouseWheel += new MouseEventHandler(Panel1_MouseWheel);               
